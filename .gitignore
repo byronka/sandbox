@@ -1,0 +1,5 @@
+# ignore Intellij's work folder
+.idea/
+
+# ignore the built-code directory
+out/

@@ -11,8 +11,8 @@ public class CodeTest1 {
 
         // input for some Depth-first search algorithm I found online
         int[] input = new int[] {1,2,3,4,5};
-        final var result = canPartitionKSubsets(input, 3);
-        System.out.println(result);
+        final var result2 = canPartitionKSubsets(input, 3);
+        System.out.println(result2);
     }
 
     // found this code online, as contrast to my work
